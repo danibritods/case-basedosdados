@@ -1,0 +1,558 @@
+,coluna,chave,valor
+0,tipo_obito,1,Fetal
+1,tipo_obito,2,Não-fetal
+2,naturalidade,1,ABU DABI
+3,naturalidade,2,ACORES
+4,naturalidade,3,AFEGANISTAO
+5,naturalidade,4,AFRICA DO SUL
+6,naturalidade,5,AIMAN
+7,naturalidade,6,ALBANIA
+8,naturalidade,8,ALEMANHA
+9,naturalidade,9,ANDORRA
+10,naturalidade,10,ANGOLA
+11,naturalidade,11,ANTILHAS HOLANDESAS
+12,naturalidade,12,ANGUILLA
+13,naturalidade,13,ANTIGUA
+14,naturalidade,14,ARABIA SAUDITA
+15,naturalidade,15,ARGELIA
+16,naturalidade,16,ARGENTINA
+17,naturalidade,17,ARMENIA
+18,naturalidade,18,ARUBA
+19,naturalidade,19,AUSTRALIA
+20,naturalidade,20,AUSTRIA
+21,naturalidade,21,AZERBAIDJAO
+22,naturalidade,22,BAHAMAS
+23,naturalidade,23,"BAHREIN, ILHA"
+24,naturalidade,24,"BALEARES, ILHAS"
+25,naturalidade,25,BANGLADESH
+26,naturalidade,26,BARBADOS
+27,naturalidade,27,BELGICA
+28,naturalidade,28,BELIZE
+29,naturalidade,29,BENIN
+30,naturalidade,30,BERMUDAS
+31,naturalidade,31,BIELORRUSSIA
+32,naturalidade,32,BIRMANIA
+33,naturalidade,33,BOLIVIA
+34,naturalidade,34,BONAIRE
+35,naturalidade,35,BOTSWANA
+36,naturalidade,36,BRUNEI
+37,naturalidade,37,BULGARIA
+38,naturalidade,38,BURUNDI
+39,naturalidade,39,BURKINA FASSO(ALTO VOLTA)
+40,naturalidade,40,BUTAO
+41,naturalidade,41,CABO VERDE
+42,naturalidade,42,"CAICOS, ILHA"
+43,naturalidade,43,CAMEROON
+44,naturalidade,44,CAMBOJA
+45,naturalidade,44,LAOS
+46,naturalidade,45,CANADA
+47,naturalidade,46,CANARIAS
+48,naturalidade,47,"CAROLINAS, ILHAS"
+49,naturalidade,48,CASAQUISTAO
+50,naturalidade,49,"CAYMAN, ILHAS"
+51,naturalidade,50,CEUTA E MELILLA
+52,naturalidade,51,CHADE
+53,naturalidade,52,CHILE
+54,naturalidade,53,CHINA
+55,naturalidade,54,CHIPRE
+56,naturalidade,55,"CHRISTMAS, ILHA"
+57,naturalidade,56,CINGAPURA
+58,naturalidade,57,"COCOS, ILHAS"
+59,naturalidade,58,COLOMBIA
+60,naturalidade,59,"COMORES, ILHAS"
+61,naturalidade,60,CONGO
+62,naturalidade,61,"COOK, ILHAS"
+63,naturalidade,62,COREIA DO NORTE
+64,naturalidade,63,COREIA DO SUL
+65,naturalidade,64,COSTA DO MARFIM
+66,naturalidade,65,COSTA RICA
+67,naturalidade,66,CUBA
+68,naturalidade,67,CURACAO
+69,naturalidade,68,DINAMARCA
+70,naturalidade,69,DJIBUTI
+71,naturalidade,70,DOMINICA
+72,naturalidade,71,DUBAI
+73,naturalidade,72,EGITO
+74,naturalidade,73,EIRE
+75,naturalidade,73,IRLANDA
+76,naturalidade,74,EL SALVADOR
+77,naturalidade,75,EQUADOR
+78,naturalidade,76,ESCOCIA
+79,naturalidade,77,ESPANHA
+80,naturalidade,78,ESTADOS UNIDOS
+81,naturalidade,79,ESTONIA
+82,naturalidade,80,ETIOPIA
+83,naturalidade,81,"FALKLAND, ILHAS"
+84,naturalidade,81,"MALVINAS, ILHAS"
+85,naturalidade,82,"FAROE, ILHAS"
+86,naturalidade,83,FIJI
+87,naturalidade,84,FILIPINAS
+88,naturalidade,85,FINLANDIA
+89,naturalidade,86,FORMOSA
+90,naturalidade,87,FRANCA
+91,naturalidade,88,FUJAIRA
+92,naturalidade,89,"FUTUNA, ILHAS"
+93,naturalidade,90,GABAO
+94,naturalidade,91,"GALAPAGOS, ILHAS"
+95,naturalidade,92,"GALES, (PAIS DE)"
+96,naturalidade,93,GAMBIA
+97,naturalidade,94,GANA
+98,naturalidade,95,GEORGIA
+99,naturalidade,96,GIBRALTAR
+100,naturalidade,97,GRA-BRETANHA
+101,naturalidade,98,GRANADA
+102,naturalidade,99,GRECIA
+103,naturalidade,100,GROENLANDIA
+104,naturalidade,101,GUADALUPE
+105,naturalidade,102,GUAM
+106,naturalidade,103,GUATEMALA
+107,naturalidade,104,GUIANA FRANCESA
+108,naturalidade,105,GUYANA
+109,naturalidade,106,GUINE
+110,naturalidade,107,GUINE-BISSAU
+111,naturalidade,108,GUINE-EQUATORIAL
+112,naturalidade,109,HAITI
+113,naturalidade,110,HOLANDA
+114,naturalidade,111,HONDURAS
+115,naturalidade,112,HONDURAS BRITANICAS
+116,naturalidade,113,HONG KONG
+117,naturalidade,114,HUNGRIA
+118,naturalidade,115,IEMEN
+119,naturalidade,116,IEMEN DO SUL
+120,naturalidade,117,INDIA
+121,naturalidade,118,INDONESIA
+122,naturalidade,119,INGLATERRA
+123,naturalidade,120,IRA
+124,naturalidade,121,IRAQUE
+125,naturalidade,122,IRLANDA DO NORTE
+126,naturalidade,123,ISLANDIA
+127,naturalidade,124,ISRAEL
+128,naturalidade,125,ITALIA
+129,naturalidade,126,JAMAICA
+130,naturalidade,127,JAPAO
+131,naturalidade,128,"JOHNSTON, ILHA"
+132,naturalidade,129,JORDANIA
+133,naturalidade,130,"JUAN FERNANDES, ILHAS"
+134,naturalidade,131,KIRIBATI
+135,naturalidade,132,KUWEIT
+136,naturalidade,133,LESOTO
+137,naturalidade,134,LETONIA
+138,naturalidade,135,LIBANO
+139,naturalidade,136,LIBERIA
+140,naturalidade,137,LIBIA
+141,naturalidade,138,LIECHTENSTEIN
+142,naturalidade,139,LITUANIA
+143,naturalidade,140,LUXEMBURGO
+144,naturalidade,141,MACAU
+145,naturalidade,142,MADAGASCAR
+146,naturalidade,143,MADEIRA
+147,naturalidade,144,MALAISIA
+148,naturalidade,145,MALAWI
+149,naturalidade,146,MALDIVAS
+150,naturalidade,147,MALI
+151,naturalidade,148,MALTA
+152,naturalidade,149,"MAN, ILHA DE"
+153,naturalidade,150,"MARIANAS, ILHAS"
+154,naturalidade,151,"MARQUESAS, ILHAS"
+155,naturalidade,152,MARROCOS
+156,naturalidade,153,"MARSHAL, ILHAS"
+157,naturalidade,154,MARTINICA
+158,naturalidade,155,MAYOTTE
+159,naturalidade,156,MAURICIUS
+160,naturalidade,157,MAURITANIA
+161,naturalidade,158,MELILLA
+162,naturalidade,159,MEXICO
+163,naturalidade,160,"MIDWAY, ILHAS"
+164,naturalidade,161,MOCAMBIQUE
+165,naturalidade,162,MOLDAVIA
+166,naturalidade,163,MONACO
+167,naturalidade,164,MONGOLIA
+168,naturalidade,165,MONTSERRAT
+169,naturalidade,166,NAMIBIA
+170,naturalidade,167,NASSAU
+171,naturalidade,168,NAURU
+172,naturalidade,169,NEPAL
+173,naturalidade,170,NEVIS
+174,naturalidade,171,NICARAGUA
+175,naturalidade,172,NIGER
+176,naturalidade,173,NIGERIA
+177,naturalidade,174,"NORFOLK, ILHA"
+178,naturalidade,175,NORUEGA
+179,naturalidade,176,NOVA CALEDONIA
+180,naturalidade,177,NOVA GUINE
+181,naturalidade,178,NOVA ZELANDIA
+182,naturalidade,179,"NOVE, ILHAS"
+183,naturalidade,180,OMA
+184,naturalidade,181,PANAMA
+185,naturalidade,182,PAPUA NOVA GUINE
+186,naturalidade,183,PAQUISTAO
+187,naturalidade,184,PARAGUAI
+188,naturalidade,185,"PASCOA, ILHA"
+189,naturalidade,186,PERU
+190,naturalidade,187,POLINESIA FRANCESA
+191,naturalidade,188,POLONIA
+192,naturalidade,189,PORTO RICO
+193,naturalidade,190,PORTUGAL
+194,naturalidade,191,"PITCAIRN, ILHA"
+195,naturalidade,192,QATAR
+196,naturalidade,193,QUENIA
+197,naturalidade,194,QUIRGUIZIA
+198,naturalidade,195,REINO UNIDO
+199,naturalidade,196,REPUBLICA CENTRO-AFRICANA
+200,naturalidade,197,REPUBLICA DOMINICANA
+201,naturalidade,198,REUNIAO
+202,naturalidade,199,ROMENIA
+203,naturalidade,200,RUANDA
+204,naturalidade,201,RUSSIA
+205,naturalidade,202,SAARA OCIDENTAL
+206,naturalidade,203,"SABA, ILHA"
+207,naturalidade,204,SAO CRISTOVAO E NEVIS
+208,naturalidade,205,"SAINT MAARTEN, ILHAS"
+209,naturalidade,206,"SAINT PIERRE E MIQUELON,I"
+210,naturalidade,207,"SALOMAO, ILHAS"
+211,naturalidade,208,"SAMOA AMERICANA, ILHAS"
+212,naturalidade,209,SAMOA ISISIFO (OCIDENTAL)
+213,naturalidade,210,SAN MARINO
+214,naturalidade,211,"SANTA LUCIA, ILHA"
+215,naturalidade,212,"SANTO EUSTAQUIO, ILHA"
+216,naturalidade,213,SAO TOME E PRINCIPE
+217,naturalidade,214,SAO VICENTE E GRANADINAS
+218,naturalidade,215,SENEGAL
+219,naturalidade,216,SERRA LEOA
+220,naturalidade,217,SEYCHELLES
+221,naturalidade,218,SIRIA
+222,naturalidade,219,"SOCIEDADE, ILHAS"
+223,naturalidade,220,SOMALIA
+224,naturalidade,221,SRI LANKA
+225,naturalidade,222,SUAZILANDIA
+226,naturalidade,223,SUDAO
+227,naturalidade,224,SUECIA
+228,naturalidade,225,SUISSA
+229,naturalidade,226,SURINAME
+230,naturalidade,227,TADJIQUISTAO
+231,naturalidade,228,TAILANDIA
+232,naturalidade,229,TANZANIA
+233,naturalidade,230,TASMANIA
+234,naturalidade,231,TCHAD
+235,naturalidade,232,TCHECO E ESLOVAQUIA
+236,naturalidade,233,TIMOR
+237,naturalidade,234,TOGO
+238,naturalidade,235,TOKELAU
+239,naturalidade,236,TONGA
+240,naturalidade,237,TUVALU
+241,naturalidade,238,TRINIDAD AND TOBAGO
+242,naturalidade,239,TUAMOTU
+243,naturalidade,240,TUBUAI
+244,naturalidade,241,TUNISIA
+245,naturalidade,242,TURCOMENISTAO
+246,naturalidade,243,"TURKS, ILHA"
+247,naturalidade,244,TURQUIA
+248,naturalidade,245,UCRANIA
+249,naturalidade,246,UGANDA
+250,naturalidade,247,UNIAO DOS EMIRADOS ARABES
+251,naturalidade,248,UNIAO SOVIETICA
+252,naturalidade,249,URUGUAI
+253,naturalidade,250,UZBEQUISTAO
+254,naturalidade,251,VANUATU
+255,naturalidade,252,VATICANO
+256,naturalidade,253,VENEZUELA
+257,naturalidade,254,VIETNA
+258,naturalidade,255,VIRGENS NORTE-AMERICANAS
+259,naturalidade,256,"VIRGENS BRITANICAS,ILHAS"
+260,naturalidade,257,"WALLIS, ILHA"
+261,naturalidade,258,YUGOSLAVIA
+262,naturalidade,259,ZAIRE
+263,naturalidade,260,ZAMBIA
+264,naturalidade,261,ZIMBABUE
+265,naturalidade,262,ZONA DO CANAL DO PANAMA
+266,naturalidade,800,BRASIL
+267,naturalidade,811,RONDONIA
+268,naturalidade,812,ACRE
+269,naturalidade,813,AMAZONAS
+270,naturalidade,814,RORAIMA
+271,naturalidade,815,PARA
+272,naturalidade,816,AMAPA
+273,naturalidade,817,TOCANTINS
+274,naturalidade,821,MARANHAO
+275,naturalidade,822,PIAUI
+276,naturalidade,823,CEARA
+277,naturalidade,824,RIO GRANDE DO NORTE
+278,naturalidade,825,PARAIBA
+279,naturalidade,826,PERNAMBUCO
+280,naturalidade,827,ALAGOAS
+281,naturalidade,828,SERGIPE
+282,naturalidade,829,BAHIA
+283,naturalidade,831,MINAS GERAIS
+284,naturalidade,832,ESPIRITO SANTO
+285,naturalidade,833,RIO DE JANEIRO
+286,naturalidade,835,SAO PAULO
+287,naturalidade,842,SANTA CATARINA
+288,naturalidade,843,RIO GRANDE DO SUL
+289,naturalidade,850,MATO GROSSO DO SUL
+290,naturalidade,851,MATO GROSSO
+291,naturalidade,852,GOIAS
+292,naturalidade,841,PARANA
+293,naturalidade,853,DISTRITO FEDERAL
+294,sexo,0,
+295,sexo,1,Masculino
+296,sexo,2,Feminino
+297,sexo,6,
+298,sexo,7,
+299,sexo,9,
+300,raca_cor,0,
+301,raca_cor,1,Branca
+302,raca_cor,2,Preta
+303,raca_cor,3,Amarela
+304,raca_cor,4,Parda
+305,raca_cor,5,Indígena
+306,raca_cor,6,
+307,raca_cor,7,
+308,raca_cor,9,
+309,estado_civil,0,
+310,estado_civil,1,Solteiro(a)
+311,estado_civil,2,Casado(a)
+312,estado_civil,3,Viúvo(a)
+313,estado_civil,4,Separado(a)
+314,estado_civil,5,União consensual
+315,estado_civil,6,
+316,estado_civil,7,
+317,estado_civil,9,
+318,escolaridade,0,
+319,escolaridade,1,Nenhuma
+320,escolaridade,2,1 a 3 anos
+321,escolaridade,3,4 a 7 anos
+322,escolaridade,4,8 a 11 anos
+323,escolaridade,5,12 anos ou mais
+324,escolaridade,6,
+325,escolaridade,7,
+326,escolaridade,8,9 a 11 anos
+327,escolaridade,9,
+328,escolaridade,A,
+329,escolaridade_mae,0,
+330,escolaridade_mae,1,Nenhuma
+331,escolaridade_mae,2,1 a 3 anos
+332,escolaridade_mae,3,4 a 7 anos
+333,escolaridade_mae,4,8 a 11 anos
+334,escolaridade_mae,5,12 anos ou mais
+335,escolaridade_mae,6,
+336,escolaridade_mae,7,
+337,escolaridade_mae,8,9 a 11 anos
+338,escolaridade_mae,9,
+339,escolaridade_mae,A,
+340,escolaridade_2010,0,Sem escolaridade
+341,escolaridade_2010,1,Fundamental I
+342,escolaridade_2010,2,Fundamental II
+343,escolaridade_2010,3,Médio
+344,escolaridade_2010,4,Superior incompleto
+345,escolaridade_2010,5,Superior completo
+346,escolaridade_2010,9,
+347,escolaridade_mae_2010,0,Sem escolaridade
+348,escolaridade_mae_2010,1,Fundamental I
+349,escolaridade_mae_2010,2,Fundamental II
+350,escolaridade_mae_2010,3,Médio
+351,escolaridade_mae_2010,4,Superior incompleto
+352,escolaridade_mae_2010,5,Superior completo
+353,escolaridade_mae_2010,9,
+354,escolaridade_falecido_2010_agr,0,Sem escolaridade
+355,escolaridade_falecido_2010_agr,1,Fundamental I incompleto
+356,escolaridade_falecido_2010_agr,2,Fundamental I completo
+357,escolaridade_falecido_2010_agr,3,Fundamental II incompleto
+358,escolaridade_falecido_2010_agr,4,Fundamental II completo
+359,escolaridade_falecido_2010_agr,5,Ensino médio incompleto
+360,escolaridade_falecido_2010_agr,6,Ensino médio completo
+361,escolaridade_falecido_2010_agr,7,Ensino superior incompleto
+362,escolaridade_falecido_2010_agr,8,Ensino superior completo
+363,escolaridade_falecido_2010_agr,9,
+364,escolaridade_falecido_2010_agr,10,Fundamental I incompleto ou inespecifico
+365,escolaridade_falecido_2010_agr,11,Fundamental II incompleto ou inespecifico
+366,escolaridade_falecido_2010_agr,12,Ensino médio incompleto ou inespecifico
+367,escolaridade_mae_2010_agr,0,Sem escolaridade
+368,escolaridade_mae_2010_agr,1,Fundamental I incompleto
+369,escolaridade_mae_2010_agr,2,Fundamental I completo
+370,escolaridade_mae_2010_agr,3,Fundamental II incompleto
+371,escolaridade_mae_2010_agr,4,Fundamental II completo
+372,escolaridade_mae_2010_agr,5,Ensino médio incompleto
+373,escolaridade_mae_2010_agr,6,Ensino médio completo
+374,escolaridade_mae_2010_agr,7,Ensino superior incompleto
+375,escolaridade_mae_2010_agr,8,Ensino superior completo
+376,escolaridade_mae_2010_agr,9,
+377,escolaridade_mae_2010_agr,10,Fundamental I incompleto ou inespecifico
+378,escolaridade_mae_2010_agr,11,Fundamental II incompleto ou inespecifico
+379,escolaridade_mae_2010_agr,12,Ensino médio incompleto ou inespecifico
+380,gravidez,0,
+381,gravidez,1,Única
+382,gravidez,2,Dupla
+383,gravidez,3,Tripla ou mais
+384,gravidez,6,
+385,gravidez,7,
+386,gravidez,9,
+387,gestacao,0,
+388,gestacao,1,Menos de 22 semanas
+389,gestacao,2,22 a 27 semanas
+390,gestacao,3,28 a 31 semanas
+391,gestacao,4,32 a 36 semanas
+392,gestacao,5,37 a 41 semanas
+393,gestacao,6,42 semanas ou mais
+394,gestacao,7,28 semanas ou mais
+395,gestacao,8,28 a 36 semanas
+396,gestacao,9,
+397,gestacao,A,21 a 27 semanas
+398,parto,0,
+399,parto,1,Vaginal
+400,parto,2,Cesáreo
+401,parto,3,
+402,parto,4,
+403,parto,5,
+404,parto,6,
+405,parto,7,
+406,parto,8,
+407,parto,9,
+408,obito_parto,0,
+409,obito_parto,1,Antes
+410,obito_parto,2,Durante
+411,obito_parto,3,Depois
+412,obito_parto,4,
+413,obito_parto,5,
+414,obito_parto,6,
+415,obito_parto,7,
+416,obito_parto,8,
+417,obito_parto,9,
+418,morte_parto,0,
+419,morte_parto,1,Antes
+420,morte_parto,2,Durante
+421,morte_parto,3,Depois
+422,morte_parto,4,
+423,morte_parto,5,
+424,morte_parto,6,
+425,morte_parto,7,
+426,morte_parto,8,
+427,morte_parto,9,
+428,obito_gravidez,0,
+429,obito_gravidez,1,Sim
+430,obito_gravidez,2,Não
+431,obito_gravidez,3,
+432,obito_gravidez,4,
+433,obito_gravidez,5,
+434,obito_gravidez,6,
+435,obito_gravidez,7,
+436,obito_gravidez,9,
+437,obito_puerperio,0,
+438,obito_puerperio,1,0 a 42 dias
+439,obito_puerperio,2,43 dias a 1 ano
+440,obito_puerperio,3,Não
+441,obito_puerperio,4,
+442,obito_puerperio,5,
+443,obito_puerperio,6,
+444,obito_puerperio,7,
+445,obito_puerperio,9,
+446,assistencia_medica,0,
+447,assistencia_medica,1,Sim
+448,assistencia_medica,2,Não
+449,assistencia_medica,4,
+450,assistencia_medica,5,
+451,assistencia_medica,6,
+452,assistencia_medica,7,
+453,assistencia_medica,9,
+454,exame,0,
+455,exame,1,Sim
+456,exame,2,Não
+457,exame,4,
+458,exame,5,
+459,exame,6,
+460,exame,7,
+461,exame,9,
+462,cirurgia,0,
+463,cirurgia,1,Sim
+464,cirurgia,2,Não
+465,cirurgia,4,
+466,cirurgia,5,
+467,cirurgia,6,
+468,cirurgia,7,
+469,cirurgia,9,
+470,necropsia,0,
+471,necropsia,1,Sim
+472,necropsia,2,Não
+473,necropsia,4,
+474,necropsia,5,
+475,necropsia,6,
+476,necropsia,7,
+477,necropsia,9,
+478,circunstancia_obito,0,
+479,circunstancia_obito,1,Acidente
+480,circunstancia_obito,2,Suicídio
+481,circunstancia_obito,3,Homicídio
+482,circunstancia_obito,4,Outro
+483,circunstancia_obito,5,
+484,circunstancia_obito,6,
+485,circunstancia_obito,7,
+486,circunstancia_obito,9,
+487,acidente_trabalho,0,
+488,acidente_trabalho,1,Sim
+489,acidente_trabalho,2,Não
+490,acidente_trabalho,3,
+491,acidente_trabalho,4,
+492,acidente_trabalho,5,
+493,acidente_trabalho,6,
+494,acidente_trabalho,7,
+495,acidente_trabalho,9,
+496,fonte,0,
+497,fonte,1,Boletim de ocorrência
+498,fonte,2,Hospital
+499,fonte,3,Família
+500,fonte,4,Outro
+501,fonte,5,
+502,fonte,6,
+503,fonte,7,
+504,fonte,9,
+505,atestante,1,Sim
+506,atestante,2,Substituto
+507,atestante,3,IML
+508,atestante,4,SVO
+509,atestante,5,Outro
+510,tipo_pos,N,Não
+511,tipo_pos,S,Sim
+512,fonte_investigacao,0,
+513,fonte_investigacao,1,Comitê de mortalidade materna e/ou infantil
+514,fonte_investigacao,2,Visita familiar / entrevista família
+515,fonte_investigacao,3,Estabelecimento de saúde / prontuário
+516,fonte_investigacao,4,Relacionamento com outros bancos de dados
+517,fonte_investigacao,5,SVO
+518,fonte_investigacao,6,IML
+519,fonte_investigacao,7,Outra fonte
+520,fonte_investigacao,8,Múltiplas fontes
+521,fonte_investigacao,9,
+522,tipo_obito_ocorrencia,1,Durante a gestação
+523,tipo_obito_ocorrencia,2,Durante o abortamento
+524,tipo_obito_ocorrencia,3,Após abortamento
+525,tipo_obito_ocorrencia,4,No parto ou até 1 hora após o parto
+526,tipo_obito_ocorrencia,5,No puerpério (até 42 dias do término da gestação)
+527,tipo_obito_ocorrencia,6,Entre o 43º dia e até um ano após o término da gestação
+528,tipo_obito_ocorrencia,7,Investigação nao identificou o momento do óbito
+529,tipo_obito_ocorrencia,8,Mais de 1 ano após o parto
+530,tipo_obito_ocorrencia,9,Outras
+531,tipo_morte_ocorrencia,1,Na gravidez
+532,tipo_morte_ocorrencia,2,No parto
+533,tipo_morte_ocorrencia,3,No aborto
+534,tipo_morte_ocorrencia,4,Até 42 dias após o parto
+535,tipo_morte_ocorrencia,5,De 43 dias até 1 ano após o parto
+536,tipo_morte_ocorrencia,8,Não ocorreu nestes períodos
+537,tipo_morte_ocorrencia,9,
+538,status_do_epidem,0,Não
+539,status_do_epidem,1,Sim
+540,status_do_nova,0,Não
+541,status_do_nova,1,Sim
+542,status_codificadora,N,Não
+543,status_codificadora,S,Sim
+544,codificado,N,Não
+545,codificado,S,Sim
+546,tipo_resgate_informacao,1,Não acrescentou nem corrigiu informação
+547,tipo_resgate_informacao,2,"Sim, permitiu o resgate de novas informações"
+548,tipo_resgate_informacao,3,"Sim, permitiu a correção de alguma das causas informadas originalmente"
+549,tipo_nivel_investigador,E,Estadual
+550,tipo_nivel_investigador,R,Regional
+551,tipo_nivel_investigador,M,Municipal
+552,local_ocorrencia,1,Hospital
+553,local_ocorrencia,2,Outro estabelecimento de saúde
+554,local_ocorrencia,3,Domicílio
+555,local_ocorrencia,4,Via pública
+556,local_ocorrencia,5,Outros
