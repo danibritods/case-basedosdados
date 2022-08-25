@@ -1,7 +1,10 @@
 # case-basedosdados
 Visualization case for Base dos Dados' data analyst technical test.
 
-Here I explore an old curiosity of mine: [Is there a relatioship between forest area and suicide incidence?](notebooks/1_case_suicide_forest.ipynb). Well, apperently not (yey science!). 
+- Here I explore an old curiosity of mine: 
+  - [Is there a relatioship between forest area and suicide incidence?](notebooks/1_case_suicide_forest.ipynb) Well, apperently not (yey science!). 
+
+  - 🇧🇷 (PT-BR): [Existe alguma relação entre área de mata e incidência de suicídio nos municípios brasileiros?](notebooks/br_municipios_suicidio_floresta_20220824.ipynb) (não tem).
 
 ### Project Organization
 
