@@ -14,8 +14,8 @@ Visualization case for Base dos Dados' data analyst technical test.
     │   ├── input                  <- Data for analysis
     │   └── output                 <- Products of the analysis
     ├── notebooks                  <- Jupyter notebooks
-        └── drafts                 <- Draft jupyter notebooks
-    ├── requirements.txt           <- Packages used in the code
+    │   └── drafts                 <- Draft jupyter notebooks
+    └── requirements.txt           <- Packages used in the code
 
 ### Getting Started
 
