@@ -1,8 +1,11 @@
 # case-basedosdados
-Visualization case for Base dos Dados' data analyst technical test.
+Dataviz case using basedosdados, bigquery and geopandas.
 
-- Here I explore an old curiosity of mine: 
-  - [Is there a relatioship between forest area and suicide incidence?](notebooks/1_case_suicide_forest.ipynb) Well, apperently not (yey science!). 
+## Investigating a possible aspect of the relationship between nature and mental health
+I have always found being in contact with nature to be beneficial to my wellbeing, and I began to wonder if there might be a correlation between the presence of nature and overall wellbeing. To explore this idea, I decided to use forest area as a proxy for nature presence, and suicide rates as a potential negative proxy for wellbeing. While suicide rates are a poor measure of overall wellbeing due to their low resolution, I believe that this approach may help shed some light on the relationship between nature and mental health. 
+
+- Making this question more exact: 
+  - [Is there a correlation between the extent of forested land in an area and the incidence of suicide?](notebooks/1_case_suicide_forest.ipynb) Well, apperently not (yey science!). 
 
   - 🇧🇷 (PT-BR): [Existe alguma relação entre área de mata e incidência de suicídio nos municípios brasileiros?](notebooks/br_municipios_suicidio_floresta_20220824.ipynb) (não tem).
 
